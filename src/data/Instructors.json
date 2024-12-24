@@ -1,0 +1,129 @@
+
+[
+    {
+        "id": 1,
+        "image": "1.jpg",
+        "name": "Douglas Lyphe",
+        "designation" : "Principal",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 2,
+        "image": "2.jpg",
+        "name": "Eleanor Fant",
+        "designation" : "Lead Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 3,
+        "image": "3.jpg",
+        "name": "Magnus Lee",
+        "designation" : "Administration",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 4,
+        "image": "4.jpg",
+        "name": "Hanson Deck",
+        "designation" : "Professor",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 5,
+        "image": "5.jpg",
+        "name": "Becky Curry",
+        "designation" : "Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 6,
+        "image": "6.jpg",
+        "name": "Giles Posture",
+        "designation" : "Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 7,
+        "image": "7.jpg",
+        "name": "Jackson Pot",
+        "designation" : "Special Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 8,
+        "image": "8.jpg",
+        "name": "Jessica Lyphe",
+        "designation" : "Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 9,
+        "image": "9.jpg",
+        "name": "Jason Response",
+        "designation" : "Education Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 10,
+        "image": "10.jpg",
+        "name": "Jonquil Von",
+        "designation" : "Teaching Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 11,
+        "image": "11.jpg",
+        "name": "Piff Jenkins",
+        "designation" : "Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 12,
+        "image": "12.jpg",
+        "name": "Brian Cumin",
+        "designation" : "Lead Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 13,
+        "image": "13.jpg",
+        "name": "Alan Fresco",
+        "designation" : "Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    },
+    {
+        "id": 14,
+        "image": "14.jpg",
+        "name": "Steve Bros",
+        "designation" : "Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+92 (305) 626 6559",
+        "email": "shahzaibtariq559@gmail.com"
+    }
+]
